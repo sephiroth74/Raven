@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/intersection
+END
+IntersectionIndex.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/intersection/IntersectionIndex.as
+END
+ApproxPathPoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/intersection/ApproxPathPoint.as
+END
+IntersectionResult.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/intersection/IntersectionResult.as
+END
+ApproxPath.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/intersection/ApproxPath.as
+END
+Base.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/intersection/Base.as
+END

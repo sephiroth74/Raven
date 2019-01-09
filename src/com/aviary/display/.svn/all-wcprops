@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/aviary_suite/!svn/ver/2220/3.0/raven/trunk/src/com/aviary/display
+END
+ITextContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/aviary_suite/!svn/ver/2220/3.0/raven/trunk/src/com/aviary/display/ITextContainer.as
+END
+IShapeDisplay.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/display/IShapeDisplay.as
+END
+IShapeContainer.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/display/IShapeContainer.as
+END

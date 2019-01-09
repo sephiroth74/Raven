@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/aviary_suite/!svn/ver/2228/3.0/raven/trunk/src/com/aviary/geom/path
+END
+PathSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/aviary_suite/!svn/ver/2197/3.0/raven/trunk/src/com/aviary/geom/path/PathSegment.as
+END
+ICurveSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/path/ICurveSegment.as
+END
+IStraightSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/path/IStraightSegment.as
+END
+PathIndex.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/aviary_suite/!svn/ver/1906/3.0/raven/trunk/src/com/aviary/geom/path/PathIndex.as
+END
+IPath.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/aviary_suite/!svn/ver/2053/3.0/raven/trunk/src/com/aviary/geom/path/IPath.as
+END
+CurveSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/aviary_suite/!svn/ver/2053/3.0/raven/trunk/src/com/aviary/geom/path/CurveSegment.as
+END
+MoveSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/aviary_suite/!svn/ver/2053/3.0/raven/trunk/src/com/aviary/geom/path/MoveSegment.as
+END
+Curve3Segment.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/aviary_suite/!svn/ver/2053/3.0/raven/trunk/src/com/aviary/geom/path/Curve3Segment.as
+END
+LineSegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/aviary_suite/!svn/ver/2053/3.0/raven/trunk/src/com/aviary/geom/path/LineSegment.as
+END
+ISegment.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/aviary_suite/!svn/ver/2053/3.0/raven/trunk/src/com/aviary/geom/path/ISegment.as
+END
+Path.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/aviary_suite/!svn/ver/2228/3.0/raven/trunk/src/com/aviary/geom/path/Path.as
+END
